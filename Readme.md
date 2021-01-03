@@ -2,3 +2,5 @@
 ### npm init
 
 ### npm i -D jest
+
+### npm test
